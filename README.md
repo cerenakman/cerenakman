@@ -6,12 +6,12 @@
 ### <div align="center">I'm Ceren, a full-time React Front-End developer 👨‍💻 working remotely since 2022 Jun🚀</div>  
   
 
+ 
+  
+🌱 I’m currently learning Javascript and React Native.  
 🔭 I’m currently working on Arabuleu.
 👩‍💻 I'm really interested in React.
-🧗‍♀️ I want to continue as a Front End Developer in my careeer.  
-  
-
-- 🌱 I’m currently learning Javascript and React Native.  
+🧗‍♀️ I want to continue as a Front End Developer in my careeer. 
    
   
 
