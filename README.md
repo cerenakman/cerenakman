@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm Ceren, a full-time React Front-End developer 👨‍💻 working remotely since 2022 Jun🚀 I love designing systems that are light , beautiful and effective.   
+I'm Ceren, React Front-End developer 👨‍💻 Working remotely since 2022 Jun🚀 I love designing systems that are light , beautiful and effective.   
   
 
 <br/>  
